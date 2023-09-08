@@ -12,12 +12,28 @@
 
 <br/>  
 
-<h2 align="left" id="kant0rin-stack">🔥 Tech stack</h2>
+<h2 align="left" id="kant0rin-stack">My stack ⚙️</h2>
 
 > Frontend
 > 
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs,react,redux,vue,bootstrap,css,sass,tailwind,html,js,ts" />
+  </a>
+</p>
+
+> Backend
+> 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+</p>
+
+> Other
+> 
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,git,netlify,vercel,vite,webpack" />
   </a>
 </p>
