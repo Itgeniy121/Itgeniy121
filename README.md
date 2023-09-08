@@ -1,4 +1,4 @@
-### <div align="center">Алексей 👨🏻‍💻 Front-end Developer</div>  
+### <div align="startr">Алексей 👨🏻‍💻 Front-end Developer</div>  
   
 
 - 👋Я живу и учусь в Санкт-Петербурге  
