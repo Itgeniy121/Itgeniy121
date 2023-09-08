@@ -18,6 +18,6 @@
 > 
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs, react, redux, vue, bootstrap, css, sass, tailwind, html, js, ts," />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,vue,bootstrap,css,sass,tailwind,html,js,ts" />
   </a>
 </p>
