@@ -1,16 +1,13 @@
-### Hi there 👋
+### <div align="center">Алексей 👨🏻‍💻 Front-end Developer</div>  
+  
 
-<!--
-**Itgeniy121/Itgeniy121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋Я живу и учусь в Санкт-Петербурге  
+  
 
-Here are some ideas to get you started:
+- 💬Мой [Telegram](https://t.me/nDpSmm)  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬Мой Email alekseylebedev322@gmail.com  
+  
+
+<br/>  
